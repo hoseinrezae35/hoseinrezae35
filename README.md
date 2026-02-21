@@ -1,11 +1,17 @@
 # 💫 About Me:
 Hi! 👋 I'm a backend developer specializing in Python and the Django and Fast API frameworks.<br> I love building scalable and optimized web applications.
 
+
 🔭 Working on an online store project
+
 🌱 Learning JavaScript and Frontend
+
 💬 Ask about Python, Django and APIs
+
 👯 Looking to collaborate on open source Python/Django projects
+
 🎲 Fun fact : I try to write code that is understandable by both machines and humans!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hosein_backend_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hosein.rezae811@gmail.com) 
