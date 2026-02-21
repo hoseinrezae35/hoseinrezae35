@@ -2,6 +2,7 @@
 Hi! 👋 I'm a backend developer specializing in Python and the Django and Fast API frameworks.<br> I love building scalable and optimized web applications.
 
 
+
 🔭 Working on an online store project
 
 🌱 Learning JavaScript and Frontend
@@ -11,6 +12,7 @@ Hi! 👋 I'm a backend developer specializing in Python and the Django and Fast 
 👯 Looking to collaborate on open source Python/Django projects
 
 🎲 Fun fact : I try to write code that is understandable by both machines and humans!
+
 
 
 ## 🌐 Socials:
